@@ -1,0 +1,367 @@
+.home-page-container {
+    width: 50%;
+    padding: 30px 30px 0px 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 150px;
+}
+
+
+.home-page-banner-container {
+    padding-right: 100px;
+    padding-left: 100px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+
+.home-page-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.home-page-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 22px;
+    width: 300px;
+
+}
+
+.home-page-img-design {
+    height: 800px;
+    width: 1100px;
+    padding-top: 50px;
+
+}
+
+.button-primary {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 40px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border: none;
+    margin-top: 10px;
+}
+
+/* Main section  page*/
+/* fresh flower section */
+
+    .fresh-flower-container{
+        width:100%;
+        height: 90vh;
+        background-color: rgb(109, 124, 130);
+        padding-top: 30px;
+        margin-top: 40px;
+        position: static;
+
+        display: flex;
+        justify-content: space-around;
+        justify-content: center;
+        padding-right: 0px;
+}
+
+
+    .fresh-flower{
+        width: 850px;
+        padding-right: 400px;
+    }
+
+    .fresh-flower-title{
+        text-decoration:double;
+        padding-right: 300px;
+        color: aliceblue;
+        font-size: 70px;
+        text-align: center;
+        align-items: center;
+  }
+    .fresh-flower-description{
+       display: flex;
+       align-items: center;
+        font-size: 23px;
+        font-style: italic;
+        font-weight: 100px;
+        color: lightgray;
+        padding-right:300px;
+    }
+    .fresh-flower-second{
+        width: 800px;
+        padding-left: 0px;
+        position: static;
+  }
+
+    /* FEAtured section style */
+
+.featured-flower-container {
+
+    width: 50%;
+    background: #FFF;
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+.featured-flower-info {
+    padding-left: 700px;
+    position: static;
+}
+
+.Featured-text-container{
+   gap: 10px;
+   padding-bottom: 20px;
+}
+
+.featured-text-info {
+    justify-content: space-around;
+    display: flex;
+    text-decoration: underline;
+    font-size: 18px;
+    padding-bottom: 100px;
+
+}
+
+.featured-flower-title {
+    color: #272727;
+    font-size: 70px;
+    font-weight: 800;
+}
+
+.featured-flower-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.featured-flower-images-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.featured-flower-images {
+    display: flex;
+    align-items: center; 
+    text-align: center; 
+    justify-content: space-around;
+    padding-right: 600px;
+    gap: 20px;
+    position: static;
+    padding-bottom: 100px; 
+}
+
+
+.puple-color-flower-image {
+    padding-right: 30px;
+    padding-left: 50px;
+    padding-top: 70px;
+    border-top-left-radius: 200px 300px;
+    border-top-right-radius: 200px 300px;
+    border-bottom-right-radius: 78px 0px;
+    border-bottom-left-radius: 6px 200px;
+    border-bottom-right-radius: 6px 200px;
+    background: rgba(167, 33, 98, 0.15);
+}
+
+
+.red-flower-img {
+    padding-right: 25px;
+    padding-left: 10px;
+    padding-top: 120px;
+    border-top-left-radius: 200px 300px;
+    border-top-right-radius: 200px 300px;
+    border-bottom-right-radius: 78px 0px;
+    border-bottom-left-radius: 6px 200px;
+    border-bottom-right-radius: 6px 200px;
+    background: rgba(5, 151, 160, 0.15);
+}
+
+
+.Yellow-flower-flower-img {
+    padding-right: 25px;
+    padding-left: 20px;
+    padding-top: 30px;
+    border-top-left-radius: 200px 300px;
+    border-top-right-radius: 200px 300px;
+    border-bottom-right-radius: 78px 0px;
+    border-bottom-left-radius: 6px 200px;
+    border-bottom-right-radius: 6px 200px;
+    background: rgba(71, 125, 17, 0.15);
+}
+
+
+/* hot deal section */
+
+.hot-deal-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.05);
+    text-align: center;
+    align-items: center;
+    position: static;
+}
+
+
+.hot-deal-title {
+    color: #272727;
+    padding-left: 50px;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+
+.hot-deal-info {
+    width: 100%;
+    text-align: center;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+
+.hot-deal-description{
+    align-items: center;
+    padding-left: 50px;
+}
+
+
+.hot-deal-img {
+    padding-top: 80px;
+    padding-right: 300px; 
+}
+
+
+/* Instagram releted section  */
+
+.social-media-banner{
+    width: 100%;
+     height: 80vh;
+}
+
+.social-media-container {
+    align-items: center;
+    background-color: white;
+    padding-left: 100px;
+}
+
+.social-media-info{
+    align-items: center;
+    text-align: center;
+    padding-right:600px ;
+}
+
+.social-media-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    padding-left: 600px;
+    gap: 24px;
+    padding-top: 20px;
+    
+}
+
+.social-media-description {
+    padding-left: 600px;
+    padding-bottom: 20px;
+}
+
+.social-media-flower-image-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   
+}
+
+ .social-media-flower-image{
+    align-items: center;
+    padding-bottom: 50px;
+    display: flex;
+    gap: 15px;
+   
+}
+
+/* baground image releted style */
+
+.baground-img-banner{
+    height: 70vh;
+    display: flex;
+    justify-content: space-around;
+    background-position: center;
+    padding-left: 100px;
+
+}
+
+.baground-img-container {
+    background-image: url('Flower Asset/Rectangle 9.png');
+    height: 430px;
+    width: 1382px;
+    text-align: center;
+}
+
+.baground-img-title {
+    color: #272727;
+    font-size: 50px;
+    font-weight: 800;
+    padding-top: 100px;
+
+}
+
+
+.input-box {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 20px;
+    border: none;
+    padding: 20px 200px;
+    font-weight: 400;
+    border-radius: 8px;
+    background: #FFF;
+    margin: 10px;
+
+}
+
+.baground-img-descriptionr{
+   
+    display: flex;
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+}
+
+/* Footer releted style */
+.flower-shop-container {
+    height: 70vh;
+    background: #111010;
+    padding-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.flower-shop-title {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+    padding-right: 70px;
+
+}
+
+.Shop-color {
+    color: white;
+}
+
+.flower-shop-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.flower-shop-description-end {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 15px;
+    font-weight: 400px;
+}
